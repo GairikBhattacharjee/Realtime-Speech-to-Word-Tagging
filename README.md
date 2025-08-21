@@ -1,5 +1,4 @@
 # Speech Recognition App
-
 A full-stack application that allows users to record speech, store it in a database, and compare speeches to find matching words.
 
 ## Features

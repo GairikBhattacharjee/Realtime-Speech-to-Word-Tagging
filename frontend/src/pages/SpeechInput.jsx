@@ -20,7 +20,7 @@ class SpeechRecognitionApp extends React.Component {
         email: "",
         password: "",
       },
-      API_BASE: "http://localhost:5000/api",
+      API_BASE: "https://tag-lwj5.onrender.com/api",
     };
   }
 

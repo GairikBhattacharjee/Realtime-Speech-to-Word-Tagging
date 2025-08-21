@@ -1,0 +1,6 @@
+Flask
+Flask-CORS
+Flask-JWT-Extended
+pymongo
+Werkzeug
+python-dotenv
